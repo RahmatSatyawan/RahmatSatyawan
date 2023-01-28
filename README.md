@@ -62,8 +62,8 @@ I am a Full Stack Developer from Indonesia.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatSatyawan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="">
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=RahmatSatyawan&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=RahmatSatyawan&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <a href="">
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatSatyawan&layout=compact&theme=vision-friendly-dark" />
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatSatyawan&layout=compact&theme=vision-friendly-dark" />
 </a>
