@@ -30,7 +30,7 @@ I am a Full Stack Developer from Indonesia.
 
 - :seedling: Exploring Technology.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I write and read tech articles.
 
 - :mailbox:How to reach me: satyawan.rahmat@gmail.com
 
